@@ -30,6 +30,10 @@ You can add options to executable code like this
 
 ```{r}
 plot(women)
+
+str(women)
+
+head(women)
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
